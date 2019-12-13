@@ -81,12 +81,12 @@ p{
 .prog
 {
   float: left;
-  width: 50%;
+  width: 100%;
   margin-right: 20px;
 }
 .dev{
   float: right;
-  width: 50%;
+  width: 100%;
   margin-left: 20px;
 }
 hr {
@@ -97,7 +97,7 @@ hr {
 }
 .man{
   float: left;
-  width: 50%;
+  width: 100%;
   margin-right: 20px;
 }
 .intro{
@@ -107,6 +107,7 @@ hr {
 .middle-container
 {
   margin-bottom: 30px;
+  margin-top: 30px;
 }
 .bottom-container
 {
@@ -161,4 +162,7 @@ a{
 a:hover
 {
   color: red;
+}
+.hello{
+  margin-top: 30px;
 }
