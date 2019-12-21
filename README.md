@@ -1,2 +1,2 @@
 # portfolio
-Access my portfolio here: www.abhaypatro.github.io/portfolio
+Access my portfolio here: https://abhaypatro.github.io/portfolio/
